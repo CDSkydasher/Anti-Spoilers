@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Heartive+
+// @name         Heartive Tweaks
 // @namespace    http://tampermonkey.net/
 // @version      2025-05-30
-// @description  Hides the descriptions on heartive because some are spoilers
+// @description  Tweaks some things on heartive
 // @author       Skyward
 // @match        https://heartive.pages.dev/*
 // @icon         https://heartive.pages.dev/
